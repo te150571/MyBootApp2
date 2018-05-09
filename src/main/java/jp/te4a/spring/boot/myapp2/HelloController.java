@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @RestController
-public class taro
+public class HelloController
 {
 	@RequestMapping("/taro")
 	public String taro(){
