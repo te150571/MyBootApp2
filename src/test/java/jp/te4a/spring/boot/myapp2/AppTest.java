@@ -1,6 +1,6 @@
 package jp.te4a.spring.boot.myapp2;
 
-import static org.junit.Assert.assertTrue;
+//import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
@@ -15,6 +15,6 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        //assertTrue( true );
     }
 }
